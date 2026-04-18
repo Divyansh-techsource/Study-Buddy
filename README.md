@@ -1,2 +1,2 @@
-Smart Study Planner intelligently organizes your study sessions by auto-scheduling tasks based on priority and difficulty. Leveraging behavioral psychology, it helps you combat procrastination while tracking your daily progress through an interactive dashboard.
+Smart Study Planner intelligently organizes your study sessions by auto-scheduling tasks based on priority and difficulty. Leveraging behavioral psychology, it helps you combat procrastination while tracking your daily progress through an interactive dashboard..
 It also provides personalized insights and reminders to keep you focused, ensuring you stay on track and meet your study goals efficiently.
